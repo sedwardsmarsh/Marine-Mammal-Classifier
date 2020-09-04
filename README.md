@@ -1,3 +1,3 @@
 # Marine-Mammal-Classifier
-## A google colab notebook using fast.ai
+## Classification of marine mammal noises using fast.ai
 ![image of marine mammals](mmc_picture.png)
